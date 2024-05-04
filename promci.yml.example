@@ -1,0 +1,11 @@
+git_server: 
+  group_url: http://test.gitlab.com/test
+  user: xxx@xxxx.com
+  access_token: xxxxxxxxxxxxxxxx
+  repositories:
+    - name: testxxx
+      directory: C:/testxxx
+promci_app:
+  access_token: xxxxxx
+  log_file: C:/test/promci.log
+
